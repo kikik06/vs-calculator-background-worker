@@ -1,0 +1,11 @@
+D:\semester 6\pemrograman.net\coba3\coba3\bin\Debug\coba3.exe.config
+D:\semester 6\pemrograman.net\coba3\coba3\bin\Debug\coba3.exe
+D:\semester 6\pemrograman.net\coba3\coba3\bin\Debug\coba3.pdb
+D:\semester 6\pemrograman.net\coba3\coba3\bin\Debug\coba3.xml
+D:\semester 6\pemrograman.net\coba3\coba3\obj\Debug\coba3.vbprojAssemblyReference.cache
+D:\semester 6\pemrograman.net\coba3\coba3\obj\Debug\coba3.Form1.resources
+D:\semester 6\pemrograman.net\coba3\coba3\obj\Debug\coba3.Resources.resources
+D:\semester 6\pemrograman.net\coba3\coba3\obj\Debug\coba3.vbproj.GenerateResource.cache
+D:\semester 6\pemrograman.net\coba3\coba3\obj\Debug\coba3.exe
+D:\semester 6\pemrograman.net\coba3\coba3\obj\Debug\coba3.xml
+D:\semester 6\pemrograman.net\coba3\coba3\obj\Debug\coba3.pdb
